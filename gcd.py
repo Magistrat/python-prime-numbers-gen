@@ -10,4 +10,4 @@ def gcd(a, b):
     if a == b:
         return a
 
-print(gcd(10000, 10000))
+# print(gcd(10000, 10000))
